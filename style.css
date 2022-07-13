@@ -28,6 +28,20 @@ section {
 .swiper-slide {
     background-position: center;
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    background: #fff;
+}
+
+.testimonialBox {
+    position: relative;
+    width: 100%;
+    padding: 40px;
+    padding-top: 90px;
+    color: #999;
+}
+
+.testimonialBox img {
+    width: 50px;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
